@@ -325,6 +325,7 @@
 |302 | [我需要用 hooks 重写所有类组件吗?](#我需要用-hooks-重写所有类组件吗) |
 |303 | [如何使用 React Hooks 获取数据?](#如何使用-react-hooks-获取数据) |
 |304 | [Hooks 是否涵盖了类的所有用例?](#hooks-是否涵盖了类的所有用例) |
+|305 | [Hooks 是否涵盖了类的所有用例-test?](#hooks-是否涵盖了类的所有用例-test) |
 <!-- /TOC -->
 
 ## Core React
@@ -6106,6 +6107,10 @@
 304. ### Hooks 是否涵盖了类的所有用例?
 
      Hooks 并没有涵盖类的所有用例，但是有计划很快添加它们。目前，还没有与不常见的 getSnapshotBeforeUpdate 和componentDidCatch 生命周期等效的钩子。
+
+305. ### Hooks 是否涵盖了类的所有用例-test?
+
+     Hooks 并没有涵盖类的所有用例，但是有计划很快添加它们。目前，还没有与不常见的 getSnapshotBeforeUpdate 和componentDidCatch 生命周期等效的钩子。     
      
 
 **[⬆ 返回顶部](#目录)**
